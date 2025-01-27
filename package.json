@@ -1,0 +1,25 @@
+{
+  "name": "technicalprep",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylomite/technical-prep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylomite/technical-prep/issues"
+  },
+  "homepage": "https://github.com/kylomite/technical-prep#readme",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0"
+  }
+}
