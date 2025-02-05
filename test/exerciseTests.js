@@ -20,6 +20,6 @@ describe("Reverse Integer Function", () => {
   });
 
   it("should return 0 if the reversal causes the value to fall outside the signed 32 bit integer range", () => {
-    expect(reverseInteger(7463847412)).to.equal(0)
+    expect(reverseInteger(2147483647)).to.equal(0)
   })
 });
